@@ -7,6 +7,6 @@ COL_NAME = 'DBZF'
 
 
 MONGO_URI = 'localhost'
-MONGO_DB = 'dbzf'
+MONGO_DB =  'dbzf'
 
 
